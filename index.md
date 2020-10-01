@@ -1,4 +1,10 @@
-
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Gamezone</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
 <div>
   <p class="logo-image"><a href="#"><img src="images/logo-image.gif" alt="" width="85" height="64" /></a></p>
   <p class="logo"><a href="#"><img src="images/logo.gif" alt="" width="315" height="32" /></a></p>
@@ -52,4 +58,5 @@
   <p class="footer">Copyright @ 2006, <a href="#">www.gamezone.com</a>, all rights reserved.<br />
     Designed by <a href="http://www.free-css-templates.com/">Free CSS Templates</a>, Thanks to <a href="http://www.dubaiapartments.biz/">Dubai Apartments</a></p>
 </div>
-
+</body>
+</html>
